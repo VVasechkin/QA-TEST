@@ -1,0 +1,28 @@
+.table {
+	width: 60%;
+	margin-bottom: 20px;
+	border: 1px solid ;
+	border-collapse: collapse; 
+	margin: auto;
+	white-space: nowrap;
+}
+.table th {
+	font-weight: bold;
+	padding: 5px;
+	border: 1px solid;
+}
+.table td {
+	border: 1px solid ;
+	padding: 10px;
+}
+.table div {
+	width: 1ch; 
+	word-wrap: break-word;
+	border: 1px;
+    padding: 10px;
+}
+.table p {
+	padding: 0;
+	margin: 0;
+	align: center
+}
